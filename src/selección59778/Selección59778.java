@@ -35,9 +35,10 @@ public class Selección59778 {
              } else {
                 if (dato3 > dato1 && dato3 > dato2) {
             System.out.println("El dato 3 es el mayor");
-            
+           }    
+  
     
-        }
+        
         
     
 

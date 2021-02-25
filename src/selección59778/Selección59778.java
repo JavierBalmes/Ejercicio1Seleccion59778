@@ -37,7 +37,7 @@ public class Selección59778 {
             System.out.println("El dato 3 es el mayor");
             
     
-        } else {
+        }
         
     
-}
+
